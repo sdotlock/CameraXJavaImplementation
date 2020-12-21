@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraXJavaImplementation</string>
+    <string name="open_camera">Open Camera</string>
+</resources>
